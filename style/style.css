@@ -32,4 +32,5 @@ menu a:hover{
 /* Подключаю шрифт */
 @font-face{
     font-family: Topler;
-    src: url(../fonts/12222.ttf);
+    src: url(../fonts/Topler.ttf);
+}
