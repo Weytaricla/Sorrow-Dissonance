@@ -1,0 +1,7 @@
+@media screen and (min-width: 1200px){
+    .menu li{
+        display: inline;
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+}
