@@ -10,6 +10,7 @@ header{
     text-align: center;
 }
 a{transition: 0.5s ease;}
+.clearfix{clear: both;}
 
 /* header = menu */
 menu{
