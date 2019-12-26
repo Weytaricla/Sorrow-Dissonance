@@ -4,8 +4,8 @@
   background-color: #4b4b4b;
   background-size: auto 100%;
 }
-.standart{
-  padding: 30px 0;
+.bg{
+  
 }
 /* Slideshow container */
 .slideshow-container {
@@ -30,7 +30,7 @@
   color: #f2f2f2;
   padding: 0 12px;
   position: absolute;
-  bottom: 60px;   /* Если двигаешь блок standart падингами, то тут тоже меняй +30px от того на сколько поменял*/
+  bottom: 60px;
   left: 150px;
   width: 100%;
   text-align: center;
