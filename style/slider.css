@@ -2,7 +2,8 @@
   padding: 50px 0;
   background-image: url(/img2.jpg);
   background-color: #4b4b4b;
-  background-size: auto 100%;
+  background-size:100% auto ;
+  background-position: center;
 }
 .bg{
   
